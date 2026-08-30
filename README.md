@@ -5,6 +5,6 @@
 | Name | GitHub |
 |------|--------|
 | William Jackson | [williamjaackson](https://github.com/williamjaackson) |
-| Shromm Gaind  | [shrommgaind](https://github.com/Shromm-Gaind)  |
+| Shromm Gaind  | [Shromm-Gaind](https://github.com/Shromm-Gaind)  |
 | Ethan Richmond | [EthanRR11](https://github.com/EthanRR11) |
-| Jameson Parmley | [jammrrs](https://github.com/Jammrrs) |
+| Jameson Parmley | [Jammrrs](https://github.com/Jammrrs) |
